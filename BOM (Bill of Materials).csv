@@ -1,0 +1,4 @@
+Item	Description	Quantity	Unit Price	Total Price	Vendor	Region	Category	SKU
+EC2 Instance	t3.medium - Linux	2	0.0416	0	AWS	us-east-1	Compute	T3_MED
+S3 Storage	Standard Storage	1000	0.023	0	AWS	us-east-1	Storage	S3_STD
+RDS Instance	db.t3.micro - PostgreSQL	1	0.017	0	AWS	us-east-1	Database	DB_T3_MICRO
